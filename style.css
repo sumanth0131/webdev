@@ -2,7 +2,10 @@
 * {
 	box-sizing: border-box;
 }
-
+body 
+{
+	background-color: blue;
+}
 h1 {
 	font-family: Robotic;
 	color:Black;
@@ -10,7 +13,7 @@ h1 {
 }
 
 body {
-	background-color: bule;
+	background-color: ;
 	
 
 }
