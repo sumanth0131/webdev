@@ -4,14 +4,14 @@
 }
 
 h1 {
-	font-family: Brushstroke, fantasy;
-	color: #000000;
+	font-family: Robotic;
+	color:Black;
 	text-align: center;
 }
 
 body {
-	background-image: url("background.jpg");
-	background-color: #FEF5CA;
+	
+	background-color: white;
 
 }
 
